@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Liam Walker&#039;s Digital Porfolio	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://LiamWalkerMe.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://LiamWalkerMe.github.io/</link>
 	<description>All Things Liam Walker</description>
 	<lastBuildDate>Fri, 11 Oct 2024 23:31:23 +0000</lastBuildDate>
 	<sy:updatePeriod>

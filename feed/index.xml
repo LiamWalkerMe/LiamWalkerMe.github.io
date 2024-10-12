@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Liam Walker&#039;s Digital Porfolio</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://LiamWalkerMe.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://LiamWalkerMe.github.io/</link>
 	<description>All Things Liam Walker</description>
 	<lastBuildDate>Fri, 11 Oct 2024 23:30:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>./../wp-content/uploads/2024/08/Favicon.png</url>
+	<url>https://LiamWalkerMe.github.io/wp-content/uploads/2024/08/Favicon.png</url>
 	<title>Liam Walker&#039;s Digital Porfolio</title>
-	<link>./../index.html</link>
+	<link>https://LiamWalkerMe.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Set 5 &#124; Moonlit Memories</title>
-		<link>./../photography-5/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-5</link>
-					<comments>./../photography-5/index.html#respond</comments>
+		<link>https://LiamWalkerMe.github.io/photography-5/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-5</link>
+					<comments>https://LiamWalkerMe.github.io/photography-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Liam Walker]]></dc:creator>
 		<pubDate>Sun, 21 Jul 2024 08:59:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../index.html?p=4872</guid>
+		<guid isPermaLink="false">https://LiamWalkerMe.github.io/?p=4872</guid>
 
 					<description><![CDATA[<p>• • Posted on Instagram This project titled &#8220;Moonlit Memories&#8221; is a fun lighthearted photoshoot taken on Moonlight Beach. The flash photography and striking faces were inspired by early 2000s Vouge. The pictures feature @xjam.jamx and @meganmtm.</p>
-<p>The post <a href="./../photography-5/index.html">Set 5 | Moonlit Memories</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></description>
+<p>The post <a href="https://LiamWalkerMe.github.io/photography-5/">Set 5 | Moonlit Memories</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<main class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-3 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--superbspacing-small);padding-right:var(--wp--preset--spacing--superbspacing-small);padding-bottom:var(--wp--preset--spacing--superbspacing-small);padding-left:var(--wp--preset--spacing--superbspacing-small)">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-2 wp-block-group-is-layout-constrained" style="padding-right:0;padding-left:0"><h1 style="font-style:normal;font-weight:600; margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center has-link-color wp-elements-0706a42a177f97457706b47785de2884 wp-block-post-title has-text-color has-primary-color has-superbfont-xlarge-font-size">Set 5 | Moonlit Memories</h1>
 
@@ -49,7 +49,7 @@
 <p class="has-primary-color has-text-color">•</p>
 
 
-<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-bd4ac2459e15823535217e0f46517182 wp-block-post-author-name has-text-color has-primary-color has-superbfont-xsmall-font-size"><a href="./../author/lwalker/index.html" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
+<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-bd4ac2459e15823535217e0f46517182 wp-block-post-author-name has-text-color has-primary-color has-superbfont-xsmall-font-size"><a href="https://LiamWalkerMe.github.io/author/lwalker/" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
 
 
 <p class="has-primary-color has-text-color">•</p>
@@ -65,7 +65,7 @@
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b32c70" id="gspb_container-id-gsbp-3b32c70">
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-cfe7f4d" id="gspb_container-id-gsbp-cfe7f4d">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2024\/07\/Left.jpeg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-4939&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2024/07/Left.jpeg" alt="" class="wp-image-4939"/><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2024\/07\/Left.jpeg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-4939&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Left.jpeg" alt="" class="wp-image-4939"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -86,31 +86,31 @@
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-1f8d5d2" id="gspb_container-id-gsbp-1f8d5d2">
 <div class="wp-block-greenshift-blocks-swiper gs-swiper gspb_slider-id-gsbp-43becfa" style="position:relative"><div class="gs-swiper-init" data-slidesperview="1" data-spacebetween="10" data-spacebetweenmd="10" data-spacebetweensm="10" data-spacebetweenxs="10" data-speed="400" data-loop="false" data-vertical="false" data-verticalheight="500px" data-autoheight="false" data-grabcursor="false" data-freemode="false" data-centered="false" data-autoplay="false" data-autodelay="4000" data-effect="" data-coverflowshadow="false"><div class="swiper"><div class="swiper-wrapper">
 <div class="swiper-slide"><div class="wp-block-greenshift-blocks-swipe swiper-slide-inner gspb_sliderinner-id-gsbp-78d0812"><div class="slider-content-zone">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="./../wp-content/uploads/2024/07/Middle.jpeg" alt="" class="wp-image-4938"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Middle.jpeg" alt="" class="wp-image-4938"/></figure>
 </div></div></div>
 
 
 
 <div class="swiper-slide"><div class="wp-block-greenshift-blocks-swipe swiper-slide-inner gspb_sliderinner-id-gsbp-10725ed"><div class="slider-content-zone">
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="./../wp-content/uploads/2024/07/Middle-2.jpeg" alt="Liam Walker and his friend Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4978"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Middle-2.jpeg" alt="Liam Walker and his friend Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4978"/></figure>
 </div></div></div>
 
 
 
 <div class="swiper-slide"><div class="wp-block-greenshift-blocks-swipe swiper-slide-inner gspb_sliderinner-id-gsbp-9f1f061"><div class="slider-content-zone">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="./../wp-content/uploads/2024/07/Middle-3-1.jpeg" alt="" class="wp-image-4982"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Middle-3-1.jpeg" alt="" class="wp-image-4982"/></figure>
 </div></div></div>
 
 
 
 <div class="swiper-slide"><div class="wp-block-greenshift-blocks-swipe swiper-slide-inner gspb_sliderinner-id-gsbp-5ebb5fa"><div class="slider-content-zone">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="./../wp-content/uploads/2024/07/Middle-4.jpeg" alt="Megan Martin and Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4980"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Middle-4.jpeg" alt="Megan Martin and Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4980"/></figure>
 </div></div></div>
 
 
 
 <div class="swiper-slide"><div class="wp-block-greenshift-blocks-swipe swiper-slide-inner gspb_sliderinner-id-gsbp-5984bbc"><div class="slider-content-zone">
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="./../wp-content/uploads/2024/07/Middle-5.jpeg" alt="Liam Walker and his friend Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4979"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="1000" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Middle-5.jpeg" alt="Liam Walker and his friend Jamie Pettijohn in a 2000s Vouge inspired picture." class="wp-image-4979"/></figure>
 </div></div></div>
 </div></div><div class="swiper-pagination"></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div><div class="swiper-scrollbar"></div></div></div>
 </div>
@@ -118,7 +118,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b74ffb" id="gspb_container-id-gsbp-3b74ffb">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2024\/07\/Right.jpeg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-4937&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2024/07/Right.jpeg" alt="" class="wp-image-4937"/><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2024\/07\/Right.jpeg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-4937&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2024/07/Right.jpeg" alt="" class="wp-image-4937"/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -141,16 +141,16 @@
 
 
 
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="./../photography-5/index.html">Set 5 | Moonlit Memories</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="https://LiamWalkerMe.github.io/photography-5/">Set 5 | Moonlit Memories</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>./../photography-5/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://LiamWalkerMe.github.io/photography-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Set 4 &#124; Translational Architecture</title>
-		<link>./../photography-4/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-4</link>
+		<link>https://LiamWalkerMe.github.io/photography-4/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-4</link>
 		
 		<dc:creator><![CDATA[Liam Walker]]></dc:creator>
 		<pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
@@ -159,7 +159,7 @@
 		<guid isPermaLink="false">http://3.145.43.242/?p=1428</guid>
 
 					<description><![CDATA[<p>• • Posted on Instagram This compilation titled &#8220;Translational Architecture&#8221; reflects the essence of my recent trip to Japan and highlights the breathtaking architectural marvels of early Japanese culture. The title brilliantly builds on my last architectural piece, emphasizing the notion of architecture transcending language and culture. I&#8217;d want to highlight the extraordinary ability of [&#8230;]</p>
-<p>The post <a href="./../photography-4/index.html">Set 4 | Translational Architecture</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></description>
+<p>The post <a href="https://LiamWalkerMe.github.io/photography-4/">Set 4 | Translational Architecture</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<main class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-6 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--superbspacing-small);padding-right:var(--wp--preset--spacing--superbspacing-small);padding-bottom:var(--wp--preset--spacing--superbspacing-small);padding-left:var(--wp--preset--spacing--superbspacing-small)">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-5 wp-block-group-is-layout-constrained" style="padding-right:0;padding-left:0"><h1 style="color:#431815; font-style:normal;font-weight:600; margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center has-link-color wp-elements-57988c60b65795c70659b192d520d8d2 wp-block-post-title has-text-color has-superbfont-xlarge-font-size">Set 4 | Translational Architecture</h1>
 
@@ -170,7 +170,7 @@
 <p class="has-text-color" style="color:#431815">•</p>
 
 
-<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-5e60b415a5f77d3f0a1991b03f07f1ac wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="./../author/lwalker/index.html" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
+<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-5e60b415a5f77d3f0a1991b03f07f1ac wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="https://LiamWalkerMe.github.io/author/lwalker/" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
 
 
 <p class="has-primary-color has-text-color">•</p>
@@ -186,7 +186,7 @@
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b32c70" id="gspb_container-id-gsbp-3b32c70">
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-cfe7f4d" id="gspb_container-id-gsbp-cfe7f4d">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Post-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1709&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese building taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Japanese building taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Post-1.png" alt="Japanese building taken by Liam Walker" class="wp-image-1709" srcset="./../wp-content/uploads/2023/08/Post-1.png 1000w, ./../wp-content/uploads/2023/08/Post-1-300x300.png 300w, ./../wp-content/uploads/2023/08/Post-1-150x150.png 150w, ./../wp-content/uploads/2023/08/Post-1-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Post-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1709&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese building taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Japanese building taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-1.png" alt="Japanese building taken by Liam Walker" class="wp-image-1709" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-1.png 1000w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-1-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-1-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-1-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -205,7 +205,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-b0d36c4" id="gspb_container-id-gsbp-b0d36c4">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Post-2.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1710&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese lantern with Yuki Ito standing underneath taken by Liam Walker.&quot;,&quot;alt&quot;:&quot;Japanese lantern with Yuki Ito standing underneath taken by Liam Walker.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Post-2.png" alt="Japanese lantern with Yuki Ito standing underneath taken by Liam Walker." class="wp-image-1710" srcset="./../wp-content/uploads/2023/08/Post-2.png 1000w, ./../wp-content/uploads/2023/08/Post-2-300x300.png 300w, ./../wp-content/uploads/2023/08/Post-2-150x150.png 150w, ./../wp-content/uploads/2023/08/Post-2-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Post-2.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1710&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese lantern with Yuki Ito standing underneath taken by Liam Walker.&quot;,&quot;alt&quot;:&quot;Japanese lantern with Yuki Ito standing underneath taken by Liam Walker.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-2.png" alt="Japanese lantern with Yuki Ito standing underneath taken by Liam Walker." class="wp-image-1710" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-2.png 1000w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-2-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-2-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-2-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -224,7 +224,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b74ffb" id="gspb_container-id-gsbp-3b74ffb">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Post-3.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1711&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese Building taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Japanese Building taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Post-3.png" alt="Japanese Building taken by Liam Walker" class="wp-image-1711" srcset="./../wp-content/uploads/2023/08/Post-3.png 1000w, ./../wp-content/uploads/2023/08/Post-3-300x300.png 300w, ./../wp-content/uploads/2023/08/Post-3-150x150.png 150w, ./../wp-content/uploads/2023/08/Post-3-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Post-3.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1711&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1000,&quot;targetHeight&quot;:1000,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Japanese Building taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Japanese Building taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1000" height="1000" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-3.png" alt="Japanese Building taken by Liam Walker" class="wp-image-1711" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-3.png 1000w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-3-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-3-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Post-3-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -247,14 +247,14 @@
 
 
 
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="./../photography-4/index.html">Set 4 | Translational Architecture</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="https://LiamWalkerMe.github.io/photography-4/">Set 4 | Translational Architecture</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
 		<title>Set 3 &#124; Colorless Afternoon</title>
-		<link>./../photography-3/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-3</link>
+		<link>https://LiamWalkerMe.github.io/photography-3/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-3</link>
 		
 		<dc:creator><![CDATA[Liam Walker]]></dc:creator>
 		<pubDate>Tue, 27 Sep 2022 19:00:00 +0000</pubDate>
@@ -263,7 +263,7 @@
 		<guid isPermaLink="false">http://3.145.43.242/?p=1421</guid>
 
 					<description><![CDATA[<p>• • Posted on Instagram Many of my afternoons after school have been empty or “colorless” due to the fact that I don’t have the time or energy to make plans with friends. Last week I decided to change that, and this set, “Colorless Afternoon,” reflects a spontaneous photoshoot featuring&#160;@sorwmtil&#160;(Tamar Shuster) and&#160;@jooshuwott&#160;(Joshua Hill). The lack [&#8230;]</p>
-<p>The post <a href="./../photography-3/index.html">Set 3 | Colorless Afternoon</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></description>
+<p>The post <a href="https://LiamWalkerMe.github.io/photography-3/">Set 3 | Colorless Afternoon</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<main class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-9 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--superbspacing-small);padding-right:var(--wp--preset--spacing--superbspacing-small);padding-bottom:var(--wp--preset--spacing--superbspacing-small);padding-left:var(--wp--preset--spacing--superbspacing-small)">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-8 wp-block-group-is-layout-constrained" style="padding-right:0;padding-left:0"><h1 style="font-style:normal;font-weight:600; margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center has-link-color wp-elements-66a1f807f414243265efaafe2d47c0c0 wp-block-post-title has-text-color has-contrast-dark-color has-superbfont-xlarge-font-size">Set 3 | Colorless Afternoon</h1>
 
@@ -274,7 +274,7 @@
 <p class="has-primary-color has-text-color">•</p>
 
 
-<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-7b3d2fd966bc23fe64f0e9ab519e3b95 wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="./../author/lwalker/index.html" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
+<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-7b3d2fd966bc23fe64f0e9ab519e3b95 wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="https://LiamWalkerMe.github.io/author/lwalker/" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
 
 
 <p class="has-primary-color has-text-color">•</p>
@@ -290,7 +290,7 @@
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b32c70" id="gspb_container-id-gsbp-3b32c70">
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-cfe7f4d" id="gspb_container-id-gsbp-cfe7f4d">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-3-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1708&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Liam Walker taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-3-1.png" alt="Liam Walker taken by Liam Walker" class="wp-image-1708" srcset="./../wp-content/uploads/2023/08/Photo-3-1.png 2100w, ./../wp-content/uploads/2023/08/Photo-3-1-300x300.png 300w, ./../wp-content/uploads/2023/08/Photo-3-1-1024x1024.png 1024w, ./../wp-content/uploads/2023/08/Photo-3-1-150x150.png 150w, ./../wp-content/uploads/2023/08/Photo-3-1-768x768.png 768w, ./../wp-content/uploads/2023/08/Photo-3-1-1536x1536.png 1536w, ./../wp-content/uploads/2023/08/Photo-3-1-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-3-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1708&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Liam Walker taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1.png" alt="Liam Walker taken by Liam Walker" class="wp-image-1708" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1.png 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-1024x1024.png 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-768x768.png 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-1536x1536.png 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -309,7 +309,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-b0d36c4" id="gspb_container-id-gsbp-b0d36c4">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-2.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1705&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Tamar Shuster taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Tamar Shuster taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-2.png" alt="Tamar Shuster taken by Liam Walker" class="wp-image-1705" srcset="./../wp-content/uploads/2023/08/Photo-2.png 2100w, ./../wp-content/uploads/2023/08/Photo-2-300x300.png 300w, ./../wp-content/uploads/2023/08/Photo-2-1024x1024.png 1024w, ./../wp-content/uploads/2023/08/Photo-2-150x150.png 150w, ./../wp-content/uploads/2023/08/Photo-2-768x768.png 768w, ./../wp-content/uploads/2023/08/Photo-2-1536x1536.png 1536w, ./../wp-content/uploads/2023/08/Photo-2-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-2.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1705&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Tamar Shuster taken by Liam Walker&quot;,&quot;alt&quot;:&quot;Tamar Shuster taken by Liam Walker&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2.png" alt="Tamar Shuster taken by Liam Walker" class="wp-image-1705" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2.png 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1024x1024.png 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-768x768.png 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1536x1536.png 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -328,7 +328,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b74ffb" id="gspb_container-id-gsbp-3b74ffb">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1704&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Joshua Hill taken by Liam Walker.&quot;,&quot;alt&quot;:&quot;Joshua Hill taken by Liam Walker.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-1.png" alt="Joshua Hill taken by Liam Walker." class="wp-image-1704" srcset="./../wp-content/uploads/2023/08/Photo-1.png 2100w, ./../wp-content/uploads/2023/08/Photo-1-300x300.png 300w, ./../wp-content/uploads/2023/08/Photo-1-1024x1024.png 1024w, ./../wp-content/uploads/2023/08/Photo-1-150x150.png 150w, ./../wp-content/uploads/2023/08/Photo-1-768x768.png 768w, ./../wp-content/uploads/2023/08/Photo-1-1536x1536.png 1536w, ./../wp-content/uploads/2023/08/Photo-1-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-1.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1704&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Joshua Hill taken by Liam Walker.&quot;,&quot;alt&quot;:&quot;Joshua Hill taken by Liam Walker.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1.png" alt="Joshua Hill taken by Liam Walker." class="wp-image-1704" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1.png 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1024x1024.png 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-768x768.png 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1536x1536.png 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-2048x2048.png 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -351,14 +351,14 @@
 
 
 
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="./../photography-3/index.html">Set 3 | Colorless Afternoon</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="https://LiamWalkerMe.github.io/photography-3/">Set 3 | Colorless Afternoon</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
 		<title>Set 2 &#124; Transitional Architecture</title>
-		<link>./../photography-2/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-2</link>
+		<link>https://LiamWalkerMe.github.io/photography-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-2</link>
 		
 		<dc:creator><![CDATA[Liam Walker]]></dc:creator>
 		<pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
@@ -367,7 +367,7 @@
 		<guid isPermaLink="false">http://3.145.43.242/?p=1408</guid>
 
 					<description><![CDATA[<p>• • Posted on Instagram Europe as a whole contains a plethora of impressive architectural feats and this set of posts, titled “Transitional Architecture,” not only highlights these accomplishments but also serves a purpose to my page as a whole: to transition away from the warm summer aesthetic. Architecture allows us to see a civilization [&#8230;]</p>
-<p>The post <a href="./../photography-2/index.html">Set 2 | Transitional Architecture</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></description>
+<p>The post <a href="https://LiamWalkerMe.github.io/photography-2/">Set 2 | Transitional Architecture</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<main class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-12 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--superbspacing-small);padding-right:var(--wp--preset--spacing--superbspacing-small);padding-bottom:var(--wp--preset--spacing--superbspacing-small);padding-left:var(--wp--preset--spacing--superbspacing-small)">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-11 wp-block-group-is-layout-constrained" style="padding-right:0;padding-left:0"><h1 style="color:#58432e; font-style:normal;font-weight:600; margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center has-link-color wp-elements-1e8b4b3bd85dfad80c77a74df167cff4 wp-block-post-title has-text-color has-superbfont-xlarge-font-size">Set 2 | Transitional Architecture</h1>
 
@@ -378,7 +378,7 @@
 <p class="has-primary-color has-text-color">•</p>
 
 
-<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-be4456bb19ce8374772a9f5aaba68190 wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="./../author/lwalker/index.html" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
+<div style="font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-be4456bb19ce8374772a9f5aaba68190 wp-block-post-author-name has-text-color has-contrast-dark-color has-superbfont-xsmall-font-size"><a href="https://LiamWalkerMe.github.io/author/lwalker/" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
 
 
 <p class="has-primary-color has-text-color">•</p>
@@ -394,7 +394,7 @@
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b32c70" id="gspb_container-id-gsbp-3b32c70">
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-cfe7f4d" id="gspb_container-id-gsbp-cfe7f4d">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-1-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1701&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: The Eiffel Tower&quot;,&quot;alt&quot;:&quot;The Eiffel Tower&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-1-1.jpg" alt="The Eiffel Tower" class="wp-image-1701" srcset="./../wp-content/uploads/2023/08/Photo-1-1.jpg 2100w, ./../wp-content/uploads/2023/08/Photo-1-1-300x300.jpg 300w, ./../wp-content/uploads/2023/08/Photo-1-1-1024x1024.jpg 1024w, ./../wp-content/uploads/2023/08/Photo-1-1-150x150.jpg 150w, ./../wp-content/uploads/2023/08/Photo-1-1-768x768.jpg 768w, ./../wp-content/uploads/2023/08/Photo-1-1-1536x1536.jpg 1536w, ./../wp-content/uploads/2023/08/Photo-1-1-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-1-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1701&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: The Eiffel Tower&quot;,&quot;alt&quot;:&quot;The Eiffel Tower&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1.jpg" alt="The Eiffel Tower" class="wp-image-1701" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1.jpg 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-300x300.jpg 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-1024x1024.jpg 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-150x150.jpg 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-768x768.jpg 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-1536x1536.jpg 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -413,7 +413,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-b0d36c4" id="gspb_container-id-gsbp-b0d36c4">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-2-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1702&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Big Ben&quot;,&quot;alt&quot;:&quot;Big Ben&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-2-1.jpg" alt="Big Ben" class="wp-image-1702" srcset="./../wp-content/uploads/2023/08/Photo-2-1.jpg 2100w, ./../wp-content/uploads/2023/08/Photo-2-1-300x300.jpg 300w, ./../wp-content/uploads/2023/08/Photo-2-1-1024x1024.jpg 1024w, ./../wp-content/uploads/2023/08/Photo-2-1-150x150.jpg 150w, ./../wp-content/uploads/2023/08/Photo-2-1-768x768.jpg 768w, ./../wp-content/uploads/2023/08/Photo-2-1-1536x1536.jpg 1536w, ./../wp-content/uploads/2023/08/Photo-2-1-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-2-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1702&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Big Ben&quot;,&quot;alt&quot;:&quot;Big Ben&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1.jpg" alt="Big Ben" class="wp-image-1702" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1.jpg 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-300x300.jpg 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-1024x1024.jpg 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-150x150.jpg 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-768x768.jpg 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-1536x1536.jpg 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -432,7 +432,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b74ffb" id="gspb_container-id-gsbp-3b74ffb">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-3.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1703&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Windsor Castle&quot;,&quot;alt&quot;:&quot;Windsor Castle&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-3.jpg" alt="Windsor Castle" class="wp-image-1703" srcset="./../wp-content/uploads/2023/08/Photo-3.jpg 2100w, ./../wp-content/uploads/2023/08/Photo-3-300x300.jpg 300w, ./../wp-content/uploads/2023/08/Photo-3-1024x1024.jpg 1024w, ./../wp-content/uploads/2023/08/Photo-3-150x150.jpg 150w, ./../wp-content/uploads/2023/08/Photo-3-768x768.jpg 768w, ./../wp-content/uploads/2023/08/Photo-3-1536x1536.jpg 1536w, ./../wp-content/uploads/2023/08/Photo-3-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-3.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1703&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:2100,&quot;targetHeight&quot;:2100,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Windsor Castle&quot;,&quot;alt&quot;:&quot;Windsor Castle&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="2100" height="2100" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3.jpg" alt="Windsor Castle" class="wp-image-1703" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3.jpg 2100w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-300x300.jpg 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1024x1024.jpg 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-150x150.jpg 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-768x768.jpg 768w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1536x1536.jpg 1536w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-2048x2048.jpg 2048w" sizes="(max-width: 2100px) 100vw, 2100px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -455,14 +455,14 @@
 
 
 
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="./../photography-2/index.html">Set 2 | Transitional Architecture</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="https://LiamWalkerMe.github.io/photography-2/">Set 2 | Transitional Architecture</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
 		<title>Set 1 &#124; Summer’s Bedroom</title>
-		<link>./../photography-1/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-1</link>
+		<link>https://LiamWalkerMe.github.io/photography-1/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=photography-1</link>
 		
 		<dc:creator><![CDATA[Liam Walker]]></dc:creator>
 		<pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
@@ -471,7 +471,7 @@
 		<guid isPermaLink="false">http://3.145.43.242/?p=1388</guid>
 
 					<description><![CDATA[<p>• • Posted on Instagram This set titled “Summer’s Bedroom” was inspired by a last minute idea to take photos that encapsulate my view of summer and its feel. Each self portrait contains a prevalent theme of warm whites and beams of sunlight. These elements carry warmth throughout the images and along side accents of [&#8230;]</p>
-<p>The post <a href="./../photography-1/index.html">Set 1 | Summer’s Bedroom</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></description>
+<p>The post <a href="https://LiamWalkerMe.github.io/photography-1/">Set 1 | Summer’s Bedroom</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<main class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-15 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--superbspacing-small);padding-right:var(--wp--preset--spacing--superbspacing-small);padding-bottom:var(--wp--preset--spacing--superbspacing-small);padding-left:var(--wp--preset--spacing--superbspacing-small)">
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-14 wp-block-group-is-layout-constrained" style="padding-right:0;padding-left:0"><h1 style="color:#58432e; font-style:normal;font-weight:600; margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center has-link-color wp-elements-1e8b4b3bd85dfad80c77a74df167cff4 wp-block-post-title has-text-color has-superbfont-xlarge-font-size">Set 1 | Summer’s Bedroom</h1>
 
@@ -482,7 +482,7 @@
 <p class="has-primary-color has-text-color">•</p>
 
 
-<div style="color:#58432e; font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-8a88bce0f0593edfa4952c4929491698 wp-block-post-author-name has-text-color has-superbfont-xsmall-font-size"><a href="./../author/lwalker/index.html" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
+<div style="color:#58432e; font-style:normal;font-weight:700;" class="has-text-align-center has-link-color wp-elements-8a88bce0f0593edfa4952c4929491698 wp-block-post-author-name has-text-color has-superbfont-xsmall-font-size"><a href="https://LiamWalkerMe.github.io/author/lwalker/" target="_self" class="wp-block-post-author-name__link">Liam Walker</a></div>
 
 
 <p class="has-primary-color has-text-color">•</p>
@@ -498,7 +498,7 @@
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b32c70" id="gspb_container-id-gsbp-3b32c70">
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-cfe7f4d" id="gspb_container-id-gsbp-cfe7f4d">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-3.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1700&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-3.png" alt="Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1700" srcset="./../wp-content/uploads/2023/08/Photo-3.png 1144w, ./../wp-content/uploads/2023/08/Photo-3-300x300.png 300w, ./../wp-content/uploads/2023/08/Photo-3-1024x1024.png 1024w, ./../wp-content/uploads/2023/08/Photo-3-150x150.png 150w, ./../wp-content/uploads/2023/08/Photo-3-768x768.png 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-3.png&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1700&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3.png" alt="Liam Walker standing in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1700" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3.png 1144w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-300x300.png 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-1024x1024.png 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-150x150.png 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-3-768x768.png 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -517,7 +517,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-b0d36c4" id="gspb_container-id-gsbp-b0d36c4">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-2.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1699&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-2.jpg" alt="Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1699" srcset="./../wp-content/uploads/2023/08/Photo-2.jpg 1144w, ./../wp-content/uploads/2023/08/Photo-2-300x300.jpg 300w, ./../wp-content/uploads/2023/08/Photo-2-1024x1024.jpg 1024w, ./../wp-content/uploads/2023/08/Photo-2-150x150.jpg 150w, ./../wp-content/uploads/2023/08/Photo-2-768x768.jpg 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-2.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1699&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2.jpg" alt="Liam Walker laying against the wall in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1699" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2.jpg 1144w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-300x300.jpg 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-1024x1024.jpg 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-150x150.jpg 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-2-768x768.jpg 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -536,7 +536,7 @@
 
 
 <div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-3b74ffb" id="gspb_container-id-gsbp-3b74ffb">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2023\/08\/Photo-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1698&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="./../wp-content/uploads/2023/08/Photo-1.jpg" alt="Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1698" srcset="./../wp-content/uploads/2023/08/Photo-1.jpg 1144w, ./../wp-content/uploads/2023/08/Photo-1-300x300.jpg 300w, ./../wp-content/uploads/2023/08/Photo-1-1024x1024.jpg 1024w, ./../wp-content/uploads/2023/08/Photo-1-150x150.jpg 150w, ./../wp-content/uploads/2023/08/Photo-1-768x768.jpg 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;https:\/\/LiamWalkerMe.github.io\/wp-content\/uploads\/2023\/08\/Photo-1.jpg&quot;,&quot;figureClassNames&quot;:&quot;wp-block-image size-full&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:&quot;wp-image-1698&quot;,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:1144,&quot;targetHeight&quot;:1144,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;Enlarge image: Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram.&quot;,&quot;alt&quot;:&quot;Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram.&quot;}" data-wp-interactive="core/image" class="wp-block-image size-full wp-lightbox-container"><img loading="lazy" decoding="async" width="1144" height="1144" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1.jpg" alt="Liam Walker laying on the ground in his bedroom during a summer afternoon. This was posted on Instagram." class="wp-image-1698" srcset="https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1.jpg 1144w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-300x300.jpg 300w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-1024x1024.jpg 1024w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-150x150.jpg 150w, https://LiamWalkerMe.github.io/wp-content/uploads/2023/08/Photo-1-768x768.jpg 768w" sizes="(max-width: 1144px) 100vw, 1144px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -559,7 +559,7 @@
 
 
 
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="./../photography-1/index.html">Set 1 | Summer’s Bedroom</a> first appeared on <a href="./../index.html">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div><p>The post <a href="https://LiamWalkerMe.github.io/photography-1/">Set 1 | Summer’s Bedroom</a> first appeared on <a href="https://LiamWalkerMe.github.io/">Liam Walker's Digital Porfolio</a>.</p>]]></content:encoded>
 					
 		
 		
